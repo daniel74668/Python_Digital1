@@ -1,4 +1,4 @@
-print ("welcome  to soping")
+print ("welcome  to market")
 
 tomatos = int(input(("enter how many tomatos?")))
 cucambers = int(input(("enter how many cucambers?")))
